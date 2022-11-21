@@ -40,4 +40,3 @@ namespace ConsoleApp1
 }
 ```
 
-github
