@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "eNBEXTJpxaeDO1ASmBBLZj+FASkMTZqvf8kNK6XZqGJgDZAJY6XA+GGYah/g2nrumZ4DpO4gITd6qSqGCyA7CQ==",
+  "success": true,
+  "projectFilePath": "D:\\USER\\Desktop\\gif_to_jpg\\gif_to_jpg\\gif_to_jpg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USER\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\USER\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

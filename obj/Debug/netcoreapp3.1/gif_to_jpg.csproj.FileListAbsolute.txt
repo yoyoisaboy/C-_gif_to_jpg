@@ -1,0 +1,15 @@
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\obj\Debug\netcoreapp3.1\gif_to_jpg.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\obj\Debug\netcoreapp3.1\gif_to_jpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\obj\Debug\netcoreapp3.1\gif_to_jpg.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\obj\Debug\netcoreapp3.1\gif_to_jpg.AssemblyInfo.cs
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\obj\Debug\netcoreapp3.1\gif_to_jpg.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\bin\Debug\netcoreapp3.1\gif_to_jpg.exe
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\bin\Debug\netcoreapp3.1\gif_to_jpg.deps.json
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\bin\Debug\netcoreapp3.1\gif_to_jpg.runtimeconfig.json
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\bin\Debug\netcoreapp3.1\gif_to_jpg.runtimeconfig.dev.json
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\bin\Debug\netcoreapp3.1\gif_to_jpg.dll
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\bin\Debug\netcoreapp3.1\gif_to_jpg.pdb
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\bin\Debug\netcoreapp3.1\System.Drawing.Common.dll
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\obj\Debug\netcoreapp3.1\gif_to_jpg.dll
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\obj\Debug\netcoreapp3.1\gif_to_jpg.pdb
+C:\Users\USER\source\repos\gif_to_jpg\gif_to_jpg\obj\Debug\netcoreapp3.1\gif_to_jpg.genruntimeconfig.cache
